@@ -1,0 +1,374 @@
+{
+  "version": "11.0-composition-engine",
+  "source_url": "https://ibgerdes.de/",
+  "site_type": "onepager",
+  "company_name": "Ingenieurbüro Gerdes GmbH",
+  "industry": "Dienstleistungsunternehmen",
+  "archetype": "technical-editorial",
+  "archetype_source": "llm",
+  "sections": [
+    "hero",
+    "services",
+    "trust",
+    "process",
+    "about",
+    "contact"
+  ],
+  "primary_cta": "Kontakt aufnehmen",
+  "services": [
+    "Bauüberwachung",
+    "Tragwerksplanung",
+    "Sanierungsplanung",
+    "Objektplanung - Ingenieurbüro Gerdes",
+    "Objektplanung"
+  ],
+  "brand_palette": {
+    "primary": "#283D52",
+    "secondary": "#E8EEEC",
+    "accent": "#24335E",
+    "background": "#F7F8F6",
+    "surface": "#FFFFFF",
+    "text": "#172126",
+    "border": "#D4DAD7",
+    "muted": "#68757A",
+    "hover": "#24335E",
+    "confidence": 0.82,
+    "source": "images/008-cropped-icon-32x32-5fa736bf.jpg"
+  },
+  "palette_strategy": "preserve_primary_modernize_rest",
+  "image_strategy": {
+    "logo": {
+      "file": "images/008-cropped-icon-32x32-5fa736bf.jpg",
+      "role": "logo",
+      "width": 32,
+      "height": 32,
+      "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/cropped-Icon-32x32.jpg",
+      "found_on": [
+        "https://ibgerdes.de/",
+        "https://ibgerdes.de/bauueberwachung/",
+        "https://ibgerdes.de/kontakt/",
+        "https://ibgerdes.de/brandschutz/",
+        "https://ibgerdes.de/ingeniuerbau/",
+        "https://ibgerdes.de/objektplanung/",
+        "https://ibgerdes.de/datenschutz/",
+        "https://ibgerdes.de/impressum/"
+      ]
+    },
+    "hero": {
+      "file": "images/001-mail-3da08d75.png",
+      "role": "content",
+      "width": 26,
+      "height": 26,
+      "source_url": "https://ibgerdes.de/wp-content/themes/nirvana/images/socials/Mail.png",
+      "found_on": [
+        "https://ibgerdes.de/",
+        "https://ibgerdes.de/bauueberwachung/",
+        "https://ibgerdes.de/kontakt/",
+        "https://ibgerdes.de/brandschutz/",
+        "https://ibgerdes.de/ingeniuerbau/",
+        "https://ibgerdes.de/objektplanung/",
+        "https://ibgerdes.de/datenschutz/",
+        "https://ibgerdes.de/impressum/"
+      ]
+    },
+    "references": [],
+    "portraits": [],
+    "usable": [
+      {
+        "file": "images/001-mail-3da08d75.png",
+        "role": "content",
+        "width": 26,
+        "height": 26,
+        "source_url": "https://ibgerdes.de/wp-content/themes/nirvana/images/socials/Mail.png",
+        "found_on": [
+          "https://ibgerdes.de/",
+          "https://ibgerdes.de/bauueberwachung/",
+          "https://ibgerdes.de/kontakt/",
+          "https://ibgerdes.de/brandschutz/",
+          "https://ibgerdes.de/ingeniuerbau/",
+          "https://ibgerdes.de/objektplanung/",
+          "https://ibgerdes.de/datenschutz/",
+          "https://ibgerdes.de/impressum/"
+        ]
+      },
+      {
+        "file": "images/002-phone-18b602bb.png",
+        "role": "content",
+        "width": 26,
+        "height": 26,
+        "source_url": "https://ibgerdes.de/wp-content/themes/nirvana/images/socials/Phone.png",
+        "found_on": [
+          "https://ibgerdes.de/",
+          "https://ibgerdes.de/bauueberwachung/",
+          "https://ibgerdes.de/kontakt/",
+          "https://ibgerdes.de/brandschutz/",
+          "https://ibgerdes.de/ingeniuerbau/",
+          "https://ibgerdes.de/objektplanung/",
+          "https://ibgerdes.de/datenschutz/",
+          "https://ibgerdes.de/impressum/"
+        ]
+      },
+      {
+        "file": "images/003-header-1867d875.jpg",
+        "role": "hero",
+        "width": 1200,
+        "height": 180,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Header.jpg",
+        "found_on": [
+          "https://ibgerdes.de/",
+          "https://ibgerdes.de/bauueberwachung/",
+          "https://ibgerdes.de/kontakt/",
+          "https://ibgerdes.de/brandschutz/",
+          "https://ibgerdes.de/ingeniuerbau/",
+          "https://ibgerdes.de/objektplanung/",
+          "https://ibgerdes.de/datenschutz/",
+          "https://ibgerdes.de/impressum/"
+        ]
+      },
+      {
+        "file": "images/004-home-75df80da.jpg",
+        "role": "hero",
+        "width": 900,
+        "height": 600,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Home.jpg",
+        "found_on": [
+          "https://ibgerdes.de/"
+        ]
+      },
+      {
+        "file": "images/005-home-300x200-b39dc2fe.jpg",
+        "role": "hero",
+        "width": 300,
+        "height": 200,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Home-300x200.jpg",
+        "found_on": [
+          "https://ibgerdes.de/"
+        ]
+      },
+      {
+        "file": "images/006-home-768x512-5dc20acf.jpg",
+        "role": "hero",
+        "width": 768,
+        "height": 512,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Home-768x512.jpg",
+        "found_on": [
+          "https://ibgerdes.de/"
+        ]
+      },
+      {
+        "file": "images/007-home-150x100-4de8791e.jpg",
+        "role": "hero",
+        "width": 150,
+        "height": 100,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Home-150x100.jpg",
+        "found_on": [
+          "https://ibgerdes.de/"
+        ]
+      },
+      {
+        "file": "images/008-cropped-icon-32x32-5fa736bf.jpg",
+        "role": "logo",
+        "width": 32,
+        "height": 32,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/cropped-Icon-32x32.jpg",
+        "found_on": [
+          "https://ibgerdes.de/",
+          "https://ibgerdes.de/bauueberwachung/",
+          "https://ibgerdes.de/kontakt/",
+          "https://ibgerdes.de/brandschutz/",
+          "https://ibgerdes.de/ingeniuerbau/",
+          "https://ibgerdes.de/objektplanung/",
+          "https://ibgerdes.de/datenschutz/",
+          "https://ibgerdes.de/impressum/"
+        ]
+      },
+      {
+        "file": "images/009-cropped-icon-192x192-386e81d3.jpg",
+        "role": "logo",
+        "width": 192,
+        "height": 192,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/cropped-Icon-192x192.jpg",
+        "found_on": [
+          "https://ibgerdes.de/",
+          "https://ibgerdes.de/bauueberwachung/",
+          "https://ibgerdes.de/kontakt/",
+          "https://ibgerdes.de/brandschutz/",
+          "https://ibgerdes.de/ingeniuerbau/",
+          "https://ibgerdes.de/objektplanung/",
+          "https://ibgerdes.de/datenschutz/",
+          "https://ibgerdes.de/impressum/"
+        ]
+      },
+      {
+        "file": "images/010-cropped-icon-180x180-bcd39ad8.jpg",
+        "role": "logo",
+        "width": 180,
+        "height": 180,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/cropped-Icon-180x180.jpg",
+        "found_on": [
+          "https://ibgerdes.de/",
+          "https://ibgerdes.de/bauueberwachung/",
+          "https://ibgerdes.de/kontakt/",
+          "https://ibgerdes.de/brandschutz/",
+          "https://ibgerdes.de/ingeniuerbau/",
+          "https://ibgerdes.de/objektplanung/",
+          "https://ibgerdes.de/datenschutz/",
+          "https://ibgerdes.de/impressum/"
+        ]
+      },
+      {
+        "file": "images/011-bauueberwachung-fc683cf5.jpg",
+        "role": "hero",
+        "width": 600,
+        "height": 400,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Bauüberwachung.jpg",
+        "found_on": [
+          "https://ibgerdes.de/bauueberwachung/"
+        ]
+      },
+      {
+        "file": "images/012-bauueberwachung-300x200-85d06d9e.jpg",
+        "role": "hero",
+        "width": 300,
+        "height": 200,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Bauüberwachung-300x200.jpg",
+        "found_on": [
+          "https://ibgerdes.de/bauueberwachung/"
+        ]
+      },
+      {
+        "file": "images/013-bauueberwachung-150x100-46ca807e.jpg",
+        "role": "hero",
+        "width": 150,
+        "height": 100,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Bauüberwachung-150x100.jpg",
+        "found_on": [
+          "https://ibgerdes.de/bauueberwachung/"
+        ]
+      },
+      {
+        "file": "images/014-brandschutz-59b07207.jpg",
+        "role": "logo",
+        "width": 600,
+        "height": 400,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Brandschutz.jpg",
+        "found_on": [
+          "https://ibgerdes.de/brandschutz/"
+        ]
+      },
+      {
+        "file": "images/015-brandschutz-300x200-c0143c38.jpg",
+        "role": "logo",
+        "width": 300,
+        "height": 200,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Brandschutz-300x200.jpg",
+        "found_on": [
+          "https://ibgerdes.de/brandschutz/"
+        ]
+      },
+      {
+        "file": "images/016-brandschutz-150x100-335cfc00.jpg",
+        "role": "logo",
+        "width": 150,
+        "height": 100,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Brandschutz-150x100.jpg",
+        "found_on": [
+          "https://ibgerdes.de/brandschutz/"
+        ]
+      },
+      {
+        "file": "images/017-ingenieurbau-1ee50139.jpg",
+        "role": "hero",
+        "width": 600,
+        "height": 300,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Ingenieurbau.jpg",
+        "found_on": [
+          "https://ibgerdes.de/ingeniuerbau/"
+        ]
+      },
+      {
+        "file": "images/018-ingenieurbau-300x150-c5477137.jpg",
+        "role": "hero",
+        "width": 300,
+        "height": 150,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Ingenieurbau-300x150.jpg",
+        "found_on": [
+          "https://ibgerdes.de/ingeniuerbau/"
+        ]
+      },
+      {
+        "file": "images/019-ingenieurbau-150x75-63ff1707.jpg",
+        "role": "hero",
+        "width": 150,
+        "height": 75,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Ingenieurbau-150x75.jpg",
+        "found_on": [
+          "https://ibgerdes.de/ingeniuerbau/"
+        ]
+      },
+      {
+        "file": "images/020-objektplanung-aurich-679afaa0.jpg",
+        "role": "hero",
+        "width": 600,
+        "height": 400,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Objektplanung_Aurich.jpg",
+        "found_on": [
+          "https://ibgerdes.de/objektplanung/"
+        ]
+      },
+      {
+        "file": "images/021-objektplanung-aurich-300x200-a660eb46.jpg",
+        "role": "hero",
+        "width": 300,
+        "height": 200,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Objektplanung_Aurich-300x200.jpg",
+        "found_on": [
+          "https://ibgerdes.de/objektplanung/"
+        ]
+      },
+      {
+        "file": "images/022-objektplanung-aurich-150x100-77c32e52.jpg",
+        "role": "hero",
+        "width": 150,
+        "height": 100,
+        "source_url": "https://ibgerdes.de/wp-content/uploads/2019/07/Objektplanung_Aurich-150x100.jpg",
+        "found_on": [
+          "https://ibgerdes.de/objektplanung/"
+        ]
+      }
+    ],
+    "usage_target": 7
+  },
+  "content_fidelity": {
+    "references_present": false,
+    "service_count": 5,
+    "image_count": 22,
+    "usable_image_count": 22
+  },
+  "design_rules": [
+    {
+      "name": "technical-editorial",
+      "path": "app/knowledge/design-system/archetypes/technical-editorial.md",
+      "excerpt": "# Technical Editorial ## Einsatz Ingenieurbüros, Architektur, Sachverständige und technisch geprägte B2B-Dienstleister. ## Wirkung Präzise, hochwertig, sachlich und persönlich. Große Typografie, asymmetrische Raster und frühe Referenz- oder Kompetenzsignale. ## Regeln - Keine beliebigen runden Kachelwüsten. - Ruhige Flächen und klare vertikale Dramaturgie. - Leistungen präzise benennen; Referenzen und Erfahrung früh zeigen. - Animationen nur subtil einsetzen."
+    },
+    {
+      "name": "reference-psm-ingenieure",
+      "path": "app/knowledge/design-system/seeded/reference-psm-ingenieure.md",
+      "excerpt": "--- approved_by_user: true industries: [engineering, architecture] reference: psmingenieure.de --- # Engineering UX Reference Stärken: moderne UX, hochwertige Projektinszenierung, klare visuelle Hierarchie, großzügige Bildflächen, reduzierte Navigation und ruhige Interaktionen. Referenzen und Projekte früh zeigen. Geeignet für Ingenieur-, Architektur- und Planungsbüros."
+    },
+    {
+      "name": "reference-ing-ka-hero",
+      "path": "app/knowledge/design-system/seeded/reference-ing-ka-hero.md",
+      "excerpt": "--- approved_by_user: true industries: [engineering, consulting] reference: ing-ka.de --- # Rotating Service Hero Hero mit wechselnden Leistungsbegriffen. Bewegung ruhig und typografisch präzise. Als Akzent nutzen, nicht als hektischen Slider. Gut für komplexe Dienstleistungsportfolios."
+    },
+    {
+      "name": "reference-energy-consulting",
+      "path": "app/knowledge/design-system/seeded/reference-energy-consulting.md",
+      "excerpt": "--- approved_by_user: true industries: [energy consulting, renovation] reference: kaminkehrermeister-forster.de/energieberatung --- # Energy Consulting Structure Persönliche Vorstellung, verständliche Leistungserklärung, Vertrauensaufbau, klarer Projektablauf und direkte Kontaktführung. Struktur übernehmen, visuelle Gestaltung modernisieren und schwache Formulierungen verbessern."
+    }
+  ],
+  "publishing": {
+    "noindex": true,
+    "provider": "github-pages"
+  }
+}
